@@ -1,0 +1,40 @@
+table {
+    border: outset;
+    width: 100%;
+}
+
+tr {
+    border: solid red 1px;
+}
+
+tr:first-child {
+    background-color: rgba(143, 253, 0, 0.979);
+}
+
+td {
+    border: solid red 1px;
+    font-weight: bold;
+}
+
+#FondoVerde {
+    text-align: center;
+}
+
+#FondoAzul {
+    background-color: aqua;
+}
+
+.Centro {
+    text-align: center;
+}
+
+.LetraRojo {
+    color: red;
+    text-align: center;
+}
+
+#FondoRosa {
+    background-color: pink;
+    vertical-align: bottom;
+    text-align: right;
+}
